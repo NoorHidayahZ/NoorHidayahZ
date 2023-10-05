@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NoorHidayahZ
 - 👀 I’m interested in Machine learning, Deep Learning, Artificial Intelligence
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me via noorhidayah.z@utm.my
 
 <!---
 NoorHidayahZ/NoorHidayahZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
